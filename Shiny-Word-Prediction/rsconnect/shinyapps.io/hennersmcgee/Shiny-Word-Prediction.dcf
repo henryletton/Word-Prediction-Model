@@ -5,8 +5,8 @@ account: hennersmcgee
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 1413895
-bundleId: 2560698
+bundleId: 2590162
 url: https://hennersmcgee.shinyapps.io/Shiny-Word-Prediction/
-when: 1572791267.30264
+when: 1573763896.53147
 asMultiple: FALSE
 asStatic: FALSE
