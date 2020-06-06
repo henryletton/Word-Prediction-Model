@@ -1,6 +1,21 @@
+## ---------------------------
+##
+## Script name: server
+##
+## Purpose of script:
+##
+## Author: Henry Letton
+##
+## Date Created: 2020-11-06
+##
+## ---------------------------
+##
+## Notes: handles in put text and loads hash maps
+##   
+##
+## ---------------------------
 
-
-
+# Load libraries
 library(shiny)
 
 library(hash)
