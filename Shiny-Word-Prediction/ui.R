@@ -32,7 +32,7 @@ shinyUI(navbarPage(theme = shinythemes::shinytheme("flatly"),
   "Text Prediciton",
   tabPanel("App",
            h4("As you type in the text box below, the next word will be predicted for you."),
-           h4("This will work reguardless of punctuation and capitalisation, but does not cope with spelling errors."),
+           h4("This will work regardless of punctuation and capitalisation, but does not cope with spelling errors."),
            h4("The more words you type, the better the prediciton."),
            h4(" "),
   # Sidebar with a slider input for number of bins 
