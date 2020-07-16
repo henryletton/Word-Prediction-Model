@@ -29,7 +29,7 @@ for (i in 1:MaxWordCount) {
 shinyUI(navbarPage(theme = shinythemes::shinytheme("flatly"),
   
   # Application title
-  "Text Prediciton",
+  "Text Predicton",
   tabPanel("App",
            h4("As you type in the text box below, the next word will be predicted for you."),
            h4("This will work regardless of punctuation and capitalisation, but does not cope with spelling errors."),
